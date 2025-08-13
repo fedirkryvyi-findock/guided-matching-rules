@@ -1,0 +1,10 @@
+{
+    "iconName": "standard:canvas",
+    "ruleType": "regexp",
+    "inputFieldName": "cpm__Remittance_Information_Long__c",
+    "regExp": "test",
+    "regExpCapturingGroup": 0,
+    "name": "Extract Payment Reference from Remittance Information",
+    "fieldName": "cpm__Payment_Reference__c",
+    "fieldType": "string"
+}

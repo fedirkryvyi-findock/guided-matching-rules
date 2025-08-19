@@ -1,7 +1,7 @@
 {
     "iconName": "standard:topic2",
     "ruleType": "constant",
-    "name": "Rule test",
+    "name": "Repo rule for testing",
     "constant": "Test value",
     "fieldName": "cpm__Account_Holder_Name__c",
     "fieldType": "string",

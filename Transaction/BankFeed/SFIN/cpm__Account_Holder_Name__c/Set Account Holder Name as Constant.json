@@ -1,0 +1,10 @@
+{
+    "iconName": "standard:topic2",
+    "ruleType": "constant",
+    "name": "Rule test",
+    "constant": "Test value",
+    "fieldName": "cpm__Account_Holder_Name__c",
+    "fieldType": "string",
+    "seqNr": "1",
+    "jobNr": "1"
+}

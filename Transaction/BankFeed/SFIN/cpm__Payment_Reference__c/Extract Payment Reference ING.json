@@ -6,5 +6,7 @@
     "regExpCapturingGroup": 0,
     "name": "Extract Payment Reference from Remittance Information for ING",
     "fieldName": "cpm__Payment_Reference__c",
-    "fieldType": "string"
+    "fieldType": "string",
+    "seqNr": "1",
+    "jobNr": "1"
 }

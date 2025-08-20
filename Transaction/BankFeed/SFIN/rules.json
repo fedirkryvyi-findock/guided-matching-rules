@@ -1,0 +1,24 @@
+[
+    {
+        "iconName": "standard:topic2",
+        "ruleType": "constant",
+        "name": "Repo rule for testing",
+        "constant": "Test value",
+        "fieldName": "cpm__Account_Holder_Name__c",
+        "fieldType": "string",
+        "seqNr": "1",
+        "jobNr": "1"
+    },
+    {
+        "iconName": "standard:canvas",
+        "ruleType": "regexp",
+        "inputFieldName": "cpm__Remittance_Information_Long__c",
+        "regExp": "test",
+        "regExpCapturingGroup": 0,
+        "name": "Extract Payment Reference from Remittance Information for ING",
+        "fieldName": "cpm__Payment_Reference__c",
+        "fieldType": "string",
+        "seqNr": "1",
+        "jobNr": "1"
+    }
+]
